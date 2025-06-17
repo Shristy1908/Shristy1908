@@ -28,8 +28,8 @@
 💬 Feel free to reach out for discussions on **web development**! 😊  
 
 - 👨‍💻 Explore my projects: [GitHub Repositories](https://github.com/Shristy1908?tab=repositories).  
-- 📫 Reach me at **shristykumari1908@gmail.com**.  
-- 📄 Know my experiences: [Resume](https://drive.google.com/file/d/1NYo869GtotligX4RTzTL8a1PPxyvcpvD/view?usp=drive_link).  
+- 📫 Reach me at **shristy.roy1729@gmail.com**.  
+- 📄 Know my experiences: [Resume](https://drive.google.com/file/d/1goyLwQ7eVI_M3p7ONPzUBlu3Deb1Z2ex/view?usp=drive_link).  
 
 ---
 
