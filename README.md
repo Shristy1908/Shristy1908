@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shristy Kumari</h1>
-<h3 align="center">A Passionate Software Engineer - Frontend at Infodart Technology Ltd</h3>
+<h3 align="center">A Passionate Software Engineer - Frontend at Deuex Solution Pvt. Ltd.</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" height="150" width="300"/>
